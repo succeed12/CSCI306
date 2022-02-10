@@ -1,0 +1,15 @@
+This document serves the purpose of desribing the pieces and what they do. 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+-Implements Drawable (no interaction and not actually a game piece, so doesn't extend GamePiece)
+	-Grass
+-Extends GamePiece, implements Moveable
+	-Imp and Wind.  
+		-Moves right (jumping over other pieces) until it reaches the rightmost space. Then moves left (jumping over other pieces) until
+		it reaches the leftmost space. Continues in this pattern indefinitely.
+	-Sniper and Unicorn move randomly (these would be the fairy and imp in this case)
+-Extends GamePiece with various InteractionResult
+	-NONE - Bug (same purpose as minion)
+	-HIT - Imp (interacts on same location)
+	-KILL - Wraith (will kill a player that comes within 2 squares, similar to the Kangalo)
+	-ADVANCE - Fairy (Unicorn; interacts on same location)
+	-GET_POINT - Castle (Gives a point if the player lands on it, similar to treasure).

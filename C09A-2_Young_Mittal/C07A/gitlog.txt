@@ -1,0 +1,133 @@
+I, David Young, certify that I participated equitably in the creation of assignment C07A, dated 2022.
+I, Eshita Mittal, certify that I participated equitably in the creation of this assignment C07A, dated 2022.
+commit 14b3ea57d443b5ca9d4c776686be625d864bddeb
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 22:30:01 2022 -0700
+
+    Added programing description text file to the repository
+
+commit 03b3f8c405a3955e69395f0f497e35fb4fafe44b
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 18:24:23 2022 -0700
+
+    Added Readme.txt file
+
+commit 7e5a7b360f5fafbb8d4ea3bc0417f1436d44264f
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 18:13:29 2022 -0700
+
+    Added gitlog.txt to repository
+
+commit 2a0c8e8d9d8795bbc5e73881930b8bd6d78d0d5d
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 14:35:13 2022 -0700
+
+    Created another piece that is an annoying piece like the minions in Mark's game which moves left and right
+
+commit 75ae76580a40a1237910a825d78aa4d1221f1571
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 14:33:49 2022 -0700
+
+    Updated Level Setup to add the new bug and castle pieces
+
+commit 078bb46e369868431b46e6cca8ae4d8ee44b4f2d
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 14:32:35 2022 -0700
+
+    Tried to change the fairy class to reset locations when advanced to the next level
+
+commit 9e96dbb936a4cc723c102bb96fe86463039a7941
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 14:31:19 2022 -0700
+
+    Created and fixed the Castle piece (acts as a treasure piece)
+
+commit 3ab525b37a74f1fb6c6a40ac6a2d674503f9b783
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 14:29:45 2022 -0700
+
+    Changed a piece name
+
+commit 3326982cd2de949d2d76a95aff13575ddcc10d9e
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 13:17:51 2022 -0700
+
+    Created a new piece, the Castle piece and added it as a class to the levelPieces package
+
+commit 652bbcad743490a1b34563f0a6e676142570e656
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 13:17:03 2022 -0700
+
+    Made some certain changes to the Level Setup file
+
+commit 6e34115415a67a20a421966dc9d7d21155ce8ab3
+Author: Eshita Mittal <eshitamittal@mines.edu>
+Date:   Mon Feb 7 13:16:05 2022 -0700
+
+    Edited the README file
+
+commit c56c8cc421671608eee5efc605c688137b6520e7
+Author: davidyoung6165 <97627501+davidyoung6165@users.noreply.github.com>
+Date:   Sun Feb 6 18:54:00 2022 -0700
+
+    Update Wraith.java
+
+commit 2a2ac04d8e2dd4e9394c65e8d421d20d5c7d4ec1
+Author: davidyoung6165 <97627501+davidyoung6165@users.noreply.github.com>
+Date:   Sun Feb 6 18:53:36 2022 -0700
+
+    Update LevelSetup.java
+
+commit 4135d1b15e9cb56f1033593ac7e6e21af3841152
+Author: davidyoung6165 <97627501+davidyoung6165@users.noreply.github.com>
+Date:   Sun Feb 6 18:53:12 2022 -0700
+
+    Update Imp.java
+
+commit d39e744b2125fe621f30581b88aa46b68c174552
+Author: davidyoung6165 <97627501+davidyoung6165@users.noreply.github.com>
+Date:   Sun Feb 6 18:52:32 2022 -0700
+
+    Update Grass.java
+
+commit b614bf5e3503cd46112010c48cc11a63c3ec4f01
+Author: davidyoung6165 <97627501+davidyoung6165@users.noreply.github.com>
+Date:   Sun Feb 6 18:50:39 2022 -0700
+
+    Update Fairy.java
+
+commit 6f437b2ef9fdff9f9eef09a7e5f3ad77bb03396c
+Author: David Young <davidyoung@mines.edu>
+Date:   Sun Feb 6 18:41:21 2022 -0700
+
+    moved src into C07A
+
+commit 659a65695f00f503e9105b50d7ad9bdc2b9bb270
+Author: davidyoung6165 <97627501+davidyoung6165@users.noreply.github.com>
+Date:   Sun Feb 6 18:33:55 2022 -0700
+
+    Rename README.md to C07A/README.md
+
+commit 0d650842aeb9e36bd3d77d94c50401c3f29ab648
+Author: davidyoung6165 <97627501+davidyoung6165@users.noreply.github.com>
+Date:   Sun Feb 6 18:33:36 2022 -0700
+
+    Rename .gitignore to C07A/.gitignore
+
+commit 892c11591157350399f96004d5e75d2617b710af
+Author: David Young <davidyoung@mines.edu>
+Date:   Sun Feb 6 18:28:01 2022 -0700
+
+    added more comments to LevelSetup
+
+commit 594c1a377d13c8219521222499f37805a3d52208
+Author: David Young <davidyoung@mines.edu>
+Date:   Sun Feb 6 18:24:46 2022 -0700
+
+    initial commit
+
+commit ceafad871fa2e11be7755bc2a3b96810fd9953c9
+Author: David Young <davidyoung@mines.edu>
+Date:   Sun Feb 6 18:19:21 2022 -0700
+
+    first commit
